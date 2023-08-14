@@ -1,0 +1,51 @@
+#a simple in-memory data structure to keep track of user accounts and their feature usage
+
+
+from flask import Flask, request, jsonify
+import time
+
+app = Flask(__name__)
+
+# Dictionary to store user accounts and their usage data
+user_accounts = {}
+
+# Create account route
+@app.route('/create_account', methods=['POST'])
+def create_account():
+    data = request.json
+    username = data['username']
+    user_accounts[username] = {'usage_count': 0, 'last_usage_time': 0}
+    return jsonify({'message': 'Account created successfully'})
+
+# Feature usage route
+@app.route('/use_feature', methods=['POST'])
+def use_feature():
+    data = request.json
+    username = data['username']
+    
+    # Check if user exists
+    if username not in user_accounts:
+        return jsonify({'error': 'User account not found'})
+    
+    user_info = user_accounts[username]
+    current_time = time.time()
+    
+    # Check if enough time has passed since last usage
+    if current_time - user_info['last_usage_time'] < 3600:  # 3600 seconds = 1 hour
+        return jsonify({'error': 'Feature usage limit exceeded'})
+    
+    # Reset usage count and update last usage time if a new hour begins
+    if current_time - user_info['last_usage_time'] >= 3600:
+        user_info['usage_count'] = 0
+        user_info['last_usage_time'] = current_time
+    
+    # Check if usage count limit has been reached
+    if user_info['usage_count'] >= 10:
+        return jsonify({'error': 'Usage limit reached for this hour'})
+    
+    # Update usage count and return success message
+    user_info['usage_count'] += 1
+    return jsonify({'message': 'Feature used successfully'})
+
+if __name__ == '__main__':
+    app.run(debug=True)

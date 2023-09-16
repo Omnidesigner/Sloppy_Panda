@@ -1,0 +1,170 @@
+designData = [
+    {
+        "id": 0,
+        "type": "Raw",
+        "prompt": " ",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/f2c77741-99b4-4974-b20d-cac784f88165/Leonardo_Creative_vibrant_colors_flowing_lines_dynamic_composi_0.jpg"
+    },
+    {
+        "id": 1,
+        "type": "Abstract Painting",
+        "prompt": "vibrant colors, flowing lines, dynamic composition",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/f2c77741-99b4-4974-b20d-cac784f88165/Leonardo_Creative_vibrant_colors_flowing_lines_dynamic_composi_0.jpg"
+    },
+    {
+        "id": 2,
+        "type": "Surreal Digital Art",
+        "prompt": "dreamlike landscapes, unexpected combinations, distorted reality",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/b76cef37-0723-48bc-b102-50d88aff6592/Leonardo_Creative_dreamlike_landscapes_unexpected_combinations_0.jpg"
+    },
+    {
+        "id": 4,
+        "type": "Impressionist Landscape",
+        "prompt": "soft brushstrokes, outdoor scenes, play of light and shadow",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/21e61320-4ffb-4085-885e-c444241aba7e/Leonardo_Creative_soft_brushstrokes_outdoor_scenes_play_of_lig_0.jpg"
+    },
+    {
+        "id": 5,
+        "type": "Pop Art Illustration",
+        "prompt": "bold colors, popular culture references, comic book style",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/b0249c87-0f40-4145-bca5-87b82a844ccb/Leonardo_Creative_bold_colors_popular_culture_references_comic_0.jpg"
+    },
+    {
+        "id": 6,
+        "type": "Cubist Portrait",
+        "prompt": "fragmented forms, multiple perspectives, geometric abstraction",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/788d2972-5e34-4693-96c6-5b09178ac68b/Leonardo_Creative_fragmented_forms_multiple_perspectives_geome_0.jpg"
+    },
+    {
+        "id": 12,
+        "type": "Neo-Pop Graffiti",
+        "prompt": "urban energy, bold typography, contemporary culture",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/d9c4319d-894a-4b0c-8c8d-b2c3f33b0e3c/Leonardo_Creative_urban_energy_bold_typography_contemporary_cu_0.jpg"
+    },
+    {
+        "id": 14,
+        "type": "Digital Impasto",
+        "prompt": "thick textured brushstrokes, 3D-like appearance, digital medium",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/b199f3a5-a097-4fb1-b145-657686c5785c/Leonardo_Creative_thick_textured_brushstrokes_3Dlike_appearanc_0.jpg"
+    },
+    {
+        "id": 15,
+        "type": "Monochromatic Illustration",
+        "prompt": "single color palette, strong contrasts, storytelling",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/148544c6-e2db-45b1-98b1-5ebc6cab5647/Leonardo_Creative_single_color_palette_strong_contrasts_storyt_0.jpg"
+    },
+    {
+        "id": 16,
+        "type": "Abstract Ink Wash",
+        "prompt": "fluid ink patterns, spontaneous marks, serene yet dynamic",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/556b9e7b-3a19-4b6b-a68d-4105a78e697f/Leonardo_Creative_fluid_ink_patterns_spontaneous_marks_serene_0.jpg"
+    },
+    {
+        "id": 18,
+        "type": "Collage Artwork",
+        "prompt": "mixed media, juxtaposed elements, visual storytelling",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/cbf11b7f-2456-46c6-9018-5c5096d72029/Leonardo_Creative_mixed_media_juxtaposed_elements_visual_story_0.jpg"
+    },
+    {
+        "id": 19,
+        "type": "Cinematic Concept Art",
+        "prompt": "epic landscapes, dramatic lighting, narrative potential",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/b88219e2-35a7-4c0b-b6c7-155e211a823c/Leonardo_Creative_epic_landscapes_dramatic_lighting_narrative_0.jpg"
+    },
+    {
+        "id": 22,
+        "type": "Dark Fantasy Illustration",
+        "prompt": "eerie atmosphere, fantastical creatures, intricate details",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/4a0fd1e2-b9b7-47aa-b6e2-052876acf7a5/Leonardo_Creative_eerie_atmosphere_fantastical_creatures_intri_0.jpg"
+    },
+    {
+        "id": 24,
+        "type": "Retro Sci-Fi Poster",
+        "prompt": "1950s sci-fi style, space exploration, retro-futuristic",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/1c331932-ecf6-4969-a7b6-1c8da682342c/Leonardo_Creative_1950s_scifi_style_space_exploration_retrofut_0.jpg"
+    },
+    {
+        "id": 25,
+        "type": "Geometric Mosaic",
+        "prompt": "intricate patterns, geometric shapes, mosaic tiling",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/dde6d002-8c64-40f7-adbd-6f0e4a59ad9d/Leonardo_Creative_intricate_patterns_geometric_shapes_mosaic_t_0.jpg"
+    },
+    {
+        "id": 26,
+        "type": "Digital Watercolor",
+        "prompt": "translucent washes, blending colors, delicate details",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/222868a1-fe82-4549-aaba-6d583c4ac8b7/Leonardo_Creative_translucent_washes_blending_colors_delicate_0.jpg"
+    },
+    {
+        "id": 27,
+        "type": "Contemporary Calligraphy",
+        "prompt": "fluid lines, experimental typography, expressive writing",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/6884d6ca-5069-4e69-93f4-36c96434f427/Leonardo_Creative_fluid_lines_experimental_typography_expressi_0.jpg"
+    },
+    {
+        "id": 31,
+        "type": "Digital Collage",
+        "prompt": "digitally combined patterns, surreal juxtapositions, visual storytelling",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/01c4757f-ef3b-47c6-8ea6-3ca6abd56bc4/Leonardo_Creative_digitally_combined_images_surreal_juxtaposit_0.jpg"
+    },
+    {
+        "id": 34,
+        "type": "Vintage Poster Art",
+        "prompt": "retro typography, bold graphics, nostalgic themes",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/ab8770d3-752e-4a6b-8079-b2eb16e76776/Leonardo_Creative_retro_typography_bold_graphics_nostalgic_the_0.jpg"
+    },
+    {
+        "id": 35,
+        "type": "Abstract Encaustic Painting",
+        "prompt": "layers of wax, textured surfaces, rich colors",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/cfc58091-1b91-4db2-b46a-cd22cc60a49a/Leonardo_Creative_layers_of_wax_textured_surfaces_rich_colors_0.jpg"
+    },
+    {
+        "id": 37,
+        "type": "Digital Landscapes",
+        "prompt": "imaginary worlds, diverse landscapes, digital painting techniques",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/e18e9ce4-33c8-4005-ad24-78b2c48520cf/Leonardo_Creative_imaginary_worlds_diverse_landscapes_digital_0.jpg"
+    },
+    {
+        "id": 40,
+        "type": "Contour Line Drawing",
+        "prompt": "continuous lines, minimalistic approach, capturing forms",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/f4017236-33fd-423d-8b40-3c78248aa052/Leonardo_Creative_continuous_lines_minimalistic_approach_captu_0.jpg"
+    },
+    {
+        "id": 46,
+        "type": "Digital Stained Glass",
+        "prompt": "vibrant colors, intricate patterns, light and shadow effects",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/0ade4b82-91da-4899-bab4-168b308f86b0/Leonardo_Creative_vibrant_colors_intricate_patterns_light_and_0.jpg"
+    },
+    {
+        "id": 47,
+        "type": "Art Nouveau Poster",
+        "prompt": "flowing lines, organic forms, decorative elements",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/3558b20e-1bd3-4733-a3bc-511550ed4f2a/Leonardo_Creative_flowing_lines_organic_forms_decorative_eleme_0.jpg"
+    },
+    {
+        "id": 49,
+        "type": "Abstract Acrylic Pour",
+        "prompt": "fluid paint pouring, spontaneous patterns, vibrant colors",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/e5f9b2e3-8322-4df1-a1d3-b4732341a58e/Leonardo_Creative_fluid_paint_pouring_spontaneous_patterns_vib_0.jpg"
+    },
+    {
+        "id": 51,
+        "type": "Intricate Burst",
+        "prompt": "unbelievably intricate, detailed design, shirt graphic style, explosive colors",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/eadc6177-1993-40b6-9537-2854dca89249/Leonardo_Creative_expressive_marks_dynamic_contrast_black_and_0.jpg"
+    },
+    {
+        "id": 52,
+        "type": "Mystic Precision",
+        "prompt": "vectorized, highly detailed. clean lines, all over pattern, mysterious and terrifying",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/eadc6177-1993-40b6-9537-2854dca89249/Leonardo_Creative_expressive_marks_dynamic_contrast_black_and_0.jpg"
+    },
+    {
+        "id": 53,
+        "type": "Abstract Charcoal Drawing",
+        "prompt": "expressive marks, dynamic contrast, black and white",
+        "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/eadc6177-1993-40b6-9537-2854dca89249/Leonardo_Creative_expressive_marks_dynamic_contrast_black_and_0.jpg"
+    },
+]

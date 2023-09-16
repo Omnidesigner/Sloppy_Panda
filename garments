@@ -167,4 +167,10 @@ designData = [
         "prompt": "expressive marks, dynamic contrast, black and white",
         "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/eadc6177-1993-40b6-9537-2854dca89249/Leonardo_Creative_expressive_marks_dynamic_contrast_black_and_0.jpg"
     },
+   {
+        "id": 54,
+        "type": "Vintage Oriental",
+        "prompt": " ancient oriental fantasy, woodblock painted, Japanese artwork, explosive color",
+        "url": "https://cdn.shopify.com/s/files/1/0809/3620/6639/files/Vintage_Oriental.jpg?v=1694892930"
+    },
 ]

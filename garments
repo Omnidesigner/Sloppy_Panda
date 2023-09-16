@@ -8,13 +8,13 @@ designData = [
     {
         "id": 1,
         "type": "Abstract Painting",
-        "prompt": "vibrant colors, flowing lines, dynamic composition",
+        "prompt": "Add vectorized, highly detailed, vibrant colors, flowing lines, dynamic composition",
         "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/f2c77741-99b4-4974-b20d-cac784f88165/Leonardo_Creative_vibrant_colors_flowing_lines_dynamic_composi_0.jpg"
     },
     {
         "id": 2,
         "type": "Surreal Digital Art",
-        "prompt": "dreamlike landscapes, unexpected combinations, distorted reality",
+        "prompt": "Add vectorized, highly detailed, Add vectorized, highly detailed, dreamlike landscapes, unexpected combinations, distorted reality",
         "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/b76cef37-0723-48bc-b102-50d88aff6592/Leonardo_Creative_dreamlike_landscapes_unexpected_combinations_0.jpg"
     },
     {
@@ -32,7 +32,7 @@ designData = [
     {
         "id": 6,
         "type": "Cubist Portrait",
-        "prompt": "fragmented forms, multiple perspectives, geometric abstraction",
+        "prompt": "Add vectorized, highly detailed, fragmented forms, multiple perspectives, geometric abstraction",
         "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/788d2972-5e34-4693-96c6-5b09178ac68b/Leonardo_Creative_fragmented_forms_multiple_perspectives_geome_0.jpg"
     },
     {
@@ -86,7 +86,7 @@ designData = [
     {
         "id": 25,
         "type": "Geometric Mosaic",
-        "prompt": "intricate patterns, geometric shapes, mosaic tiling",
+        "prompt": "Add vectorized, highly detailed, intricate patterns, geometric shapes, mosaic tiling",
         "url": "https://cdn.leonardo.ai/users/28a27a1c-3a8a-48c6-8ea0-a91a17e826c4/generations/dde6d002-8c64-40f7-adbd-6f0e4a59ad9d/Leonardo_Creative_intricate_patterns_geometric_shapes_mosaic_t_0.jpg"
     },
     {
